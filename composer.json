@@ -1,12 +1,12 @@
 {
-    "name": "aladdindev/php-youtube-dl",
+    "name": "https://github.com/junaidjaan1388/php-youtube-dl",
     "description": "A PHP script to help download your videos from Youtube",
     "type": "library",
-    "license": "MIT",
+    
     "authors": [
         {
-            "name": "Aladdin Dev",
-            "email": "admin@aladdian.com"
+            "name": "https://github.com/junaidjaan1388/php-youtube-dl",
+            "email": "junaidjaan1388@gmail.com"
         }
     ],
     "minimum-stability": "stable",
